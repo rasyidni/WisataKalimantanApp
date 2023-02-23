@@ -1,3 +1,94 @@
 <resources>
     <string name="app_name">Wisata Kalimantan</string>
+    <string name="deskripsi_gambar">gambar wisata</string>
+    <string name="nama">nama wisata</string>
+    <string name="deskripsi_wisata">deskripsi wisata</string>
+    <string name="jenis_wisata">Jenis Wisata</string>
+    <string name="luas">Luas</string>
+    <string name="alamat">Alamat</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="share">Share</string>
+    <string name="profil">Profil</string>
+    <string name="gambar">gambar</string>
+    <string name="me">Rasyid Noor Imamsyah</string>
+    <string name="email">rasyidni700@gmail.com</string>
+
+
+    <string-array name="data_name">
+        <item>Taman Nasional Tanjung Puting</item>
+        <item>Danau Sentarum</item>
+        <item>Pulau Sangalaki</item>
+        <item>Pulau Maratua</item>
+        <item>Pulau Kakaban</item>
+        <item>Pegunungan Meratus</item>
+        <item>Danau Labuan Cermin</item>
+        <item>Pulau Derawan</item>
+        <item>Danau ubur-ubur</item>
+        <item>Bukit Bangkirai</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>Kec. Kumai, Kabupaten Kotawaringin Barat, Kalimantan Tengah</item>
+        <item>Kabupaten Kapuas Hulu, Kalimantan Barat</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kecamatan Biduk-biduk, Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kecamatan Samboja, Kabupaten Kutai Kartanegara, Kalimantan Timur</item>
+    </string-array>
+
+    <string-array name="data_area">
+        <item>3.550 km2</item>
+        <item>1.320 km2</item>
+        <item>15,9 hektar</item>
+        <item>384,36 km2</item>
+        <item>774,2 hektar</item>
+        <item>600 km2</item>
+        <item>2 hektar</item>
+        <item>3.858,96 km2</item>
+        <item>5 km2</item>
+        <item>1.230 hektar</item>
+    </string-array>
+
+    <string-array name="data_type">
+        <item>Area Wisata Alam dan Taman Margasatwa</item>
+        <item>Area Wisata Alam dan Taman Margasatwa</item>
+        <item>Pulau</item>
+        <item>Pulau</item>
+        <item>Pulau</item>
+        <item>Pegunungan</item>
+        <item>Perairan</item>
+        <item>Pulau</item>
+        <item>Area Wisata Alam dan Taman Margasatwa</item>
+        <item>Area Wisata Alam dan Taman Margasatwa</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tanjung Puting Taman Nasional di ketinggian 0-100 meter di atas permukaan laut memiliki beberapa jenis ekosistem hutan hujan tropis, dataran rendah, hutan tanah kering, hutan rawa air tawar, hutan bakau, hutan pantai, dan hutan sekunder. Taman nasional ini juga rumah bagi spesies yang dilindungi endemik orangutan, bekantan, monyet merah, beruang, rusa, dan kucing liar.Taman Nasional Tanjung Puting adalah pusat rehabilitasi orang utan pertama di Indonesia. Ada beberapa tempat yang dapat Anda kunjungi termasuk Tanjung Harapan, Pondok Tanggui, Camp Lakey, Natai Lengkuas, Danau Burung dan Sungai Buluh. Untuk melihat seluruh area Taman Nasional Tanjung Puting, kunjungi pada bulan Juni-September setiap tahun.</item>
+        <item>Danau Sentarum adalah danau musiman yang berada di Kapuas Hulu, Kalimantan Barat. Danau ini dipenuhi air selama 10 bulan setiap tahunnya, dan sisanya akan surut, membentuk kolam-kolam kecil yang berisi ikan-ikan kecil. Saat kemarau, Air Danau Sentarum memasok setengah dari aliran air Sungai Kapuas.</item>
+        <item>Pulau Sangalaki terkenal dengan keindahan taman bawah lautnya dan sebagai penangkaran penyu. Kondisi alam di Pulau Sangalaki ini masih terjaga dengan baik. Berbagai satwa liar diantaranya Ketam Kelapa, Biawak, Elang Bondol, Burung Gosong Filipina, Kuntul Karang dan burung laut lainnya masih bisa dilihat dengan mudah. Pasir pantai di pulau ini sangat putih bersih dan halus. Pula ombak pantai yang tenang dan garis pantai yang landai menambah kenyamanan saat berenang atau bermain air.</item>
+        <item>Pulau Maratua memiliki keelokan alam dan bawah laut yang luar biasa. Para divers seperti menemukan surga dan pulau ini disebut-sebut sebagai Maldivesnya Indonesia. Tidak hanya itu, keindahan alam bawah laut Pulau Maratua yang memukau. Terumbu karang yang indah bertipe fringing Reef, didominasi padang lamun dengan jenis Halodule Uninervis beraneka ragam jenis ikan juga turut menemani wisatawan yang pergi menyelam.Tak heran jika banyak penyelam mengatakannya sebagai surganya para penyelam.</item>
+        <item>Pulau Kakaban yang merupakan pulau terluar di Kabupaten Berau, Kalimantan Timur, sungguh menarik untuk dikunjungi. Pulau yang luasannya didominasi danau hingga 80 persen ketimbang daratannya. Pulau Kakaban istimewa akan danau yang airnya berasal dari rembesan air laut dan kucuran hujan. Danau ini juga merupakan habitatnya ubur-ubur mini yang tidak menyengat dalam jumlah ribuan. Mereka “terjebak” sejak ribuan tahun silam yang akhirnya hidup tenang.</item>
+        <item>Terletak di Provinsi Kalimantan Selatan, Geopark Pegunungan Meratus menjadi salah satu ikon pariwisata dan kebanggaan masyarakat Kalimantan Selatan. Geopark (Taman Bumi) merupakan wilayah geografis tunggal yang menyatu, dimana situs geologi dan bentang alamnya dikelola secara holistik. Dimana komponen pengembangan Kawasan Geopark meliputi Pengembangan Masyarakat, Pembangunan Ekonomi dan Konservasi.</item>
+        <item>Danau Labuan Cermin merupakan salah satu tujuan rekreasi yang sangat menarik ketika sedang berada di Kalimantan Timur. Tak hanya itu danau ini memiliki keunikan tersendiri yaitu mempunyai air dengan dua rasa, yaitu tawar di permukan dan asin di dasar danau.</item>
+        <item>Konon katanya, pulau ini merupakan surga tersembunyi yang mempunyai daya tarik tersendiri. Pesona terumbu karang yang cantik dan alami, dengan hamparan pasir putih yang bersih serta air lautnya yang jernih berwarna biru benar-benar memanjakan mata. Rasanya pulau ini tak pernah sepi wisatawan, baik dari lokal hingga internasional banyak yang tertarik melihat bagaimana keindahan dan keelokan pemandangan bawah laut yang ada di Pulau Derawan.</item>
+        <item>Air di danau ini merupakan air payau akibat pengaruh curah hujan dan air tanah, tetapi masih terpengaruh pasang surut. Setidaknya, terdapat empat spesies ubur-ubur di danau ini, yakni ubur-ubur emas (mastigias papua), ubur-ubur terbalik (cassiopea ornata), ubur-ubur bulan (aurelia sp.), dan ubur-ubur kotak kaki-tiga (tripedalia cystophora).</item>
+        <item>Sesuai namanya, vegetasi utama yang dapat ditemukan di Bukit Bangkirai adalah jenis pohon bangkirai (Shorea laevis). Pohon ini termasuk jenis kayu komersil yang kini tergolong langka. Kayu bangkirai memiliki sifat yang kokoh seperti kayu ulin (kayu besi), sehingga banyak digunakan sebagai bahan bangunan rumah-rumah tradisional di Kalimantan. Keberadaan tumbuhan bangkirai yang mendominasi tumbuhan di sekeliling bukit ini pun memiliki sejarah tersendiri.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tanjung_puting</item>
+        <item>@drawable/sentarum</item>
+        <item>@drawable/sangalaki</item>
+        <item>@drawable/maratua</item>
+        <item>@drawable/kakaban</item>
+        <item>@drawable/meratus</item>
+        <item>@drawable/labuan_cermin</item>
+        <item>@drawable/derawan</item>
+        <item>@drawable/ubur_ubur</item>
+        <item>@drawable/bangkirai</item>
+    </integer-array>
 </resources>
